@@ -3,59 +3,59 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"Personal portofolio",
+        description:"This is a website to apresent the Frontend developer Ludovina Quinguaia and her profissional carreer.",
+        tags:["about","projets","skills"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"#",
+        github:"#"
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"PinPoint",
+        description:"A Job listing website build . With searching and filtering functionalities.",
+        tags:["EV's","sass"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"pinpointech.com",
+        github:"#"
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"Lumi IA",
+        description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus modi",
+        tags:["finance","bank","sass"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"https://lumiia.vercel.app/",
+        github:"#"
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
+        name:"mais244_Agency",
+        description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus modi",
         tags:["react","styledComponents","react-router"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        demo:"https://mais244-agency.vercel.app/",
+        github:"#"
        
     },{
         id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
+        name:"Buscenter_ao",
+        description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus modi",
         tags:["react","redux","framer-motion"],
         
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
+        demo:"https://buscenter-ao.vercel.app/",
+        github:"#"
         
     },
     {
         id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
+        name:"Buscenter entrepreneur",
+        description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus modi, tempora, ipsum quae fuga nemo enim omnis",
         tags:["react","react-router","css"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
+        demo:"https://buscenter-angola.netlify.app/",
+        github:"#"
         
     },
     

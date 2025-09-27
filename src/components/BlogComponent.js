@@ -11,7 +11,7 @@ const Box = styled(motion.a)`
   color: ${(props) => props.theme.text};
   border: 2px solid ${(props) => props.theme.text};
   backdrop-filter: blur(2px);
-  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 1rem 0 rgba(85, 83, 83, 0.2);
   cursor: pointer;
 
   display: flex;
