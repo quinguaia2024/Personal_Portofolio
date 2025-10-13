@@ -46,8 +46,8 @@ export const Blogs = [
         name: "Participant at Geostratos Academy event opening the new innovation lab in Angola.",
         tags: ["Scientific", "Youth"],
         date: "17 May, 2025",
-        imgSrc: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/geostratos.jpg",
-        link: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/geostratos.jpg"
+        imgSrc: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/geostratos.jpg?raw=true",
+        link: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/geostratos.jpg?raw=true"
 
     },
 
@@ -64,7 +64,7 @@ export const Blogs = [
         name: "Participant at Angotic, embracing innovation, startups and tech-driven change.",
         tags: ["Startups", "Ecosystem", "Growth"],
         date: "12 Jun, 2025",
-        imgSrc: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/angotic2.jpg",
+        imgSrc: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/angotic2.jpg?raw=true",
         link: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/angotic2.jpg"
     },
         {
@@ -80,8 +80,8 @@ export const Blogs = [
         name: "Showcased PinPoint at Murrato Tech Fair, driving smart mobility in Angola.",
         tags: ["Fuel", "Stations", "Locator"],
         date: "09 Nov, 2024",
-        imgSrc: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/feira2.jpg",
-        link: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/feira2.jpg"
+        imgSrc: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/feira2.jpg?raw=true",
+        link: "https://github.com/quinguaia2024/Personal_Portofolio/blob/main/src/assets/blog/feira2.jpg?raw=true"
     },
       {
         id: 11,
